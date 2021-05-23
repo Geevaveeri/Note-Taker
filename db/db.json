@@ -1,6 +1,14 @@
-[
-  {
-    "title": "Test Title",
-    "text": "Test text"
-  }
-]
+{
+  "notesArray": [
+    {
+      "title": "Hello",
+      "text": "This is a new note.",
+      "id": "8005e231-0ea9-435e-8e18-20d53016709e"
+    },
+    {
+      "title": "Another new note",
+      "text": "Yay a new one!",
+      "id": "bb0a7f5e-3b9d-4cf8-9eec-1be5bc1be3aa"
+    }
+  ]
+}
