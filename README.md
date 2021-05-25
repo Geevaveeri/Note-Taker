@@ -9,6 +9,9 @@
   6. [License](#License)
   7. [Questions](#Questions)
 
+![Note Screen 1](https://user-images.githubusercontent.com/59940979/119582081-2c80c700-bd81-11eb-8c57-c743623937fc.PNG)
+![Note Screen 2](https://user-images.githubusercontent.com/59940979/119582082-2c80c700-bd81-11eb-96fc-325479e5ef0f.PNG)
+
 
 ## Description
 An application for writing and saving notes. The application uses an Express back end and will save and retrieve note data from a JSON file. 
@@ -18,6 +21,7 @@ Clone the repo. Open the terminal and navigate to the root directory and type NP
 
 ## Usage
 Type NPM start into the terminal then go to localhost:3001 in your web browser.
+OR follow this link. https://morning-tundra-66968.herokuapp.com/!
 
 ## Contributing
 No contribution guidelines.
